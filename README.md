@@ -1,1 +1,1 @@
-# okeinote
+# okeinote-app
